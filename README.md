@@ -26,8 +26,7 @@
 Google Colab, Python, TensorFlow  
 
 ------
-## 테스트 환경
-Google Colab
+## 테스트  
 <a href="https://github.com/yuzy1022/Trading-of-using-reinforcement-learning/blob/main/%5BRL%5DTrading_with_RL_forAll.ipynb.zip">[RL]Trading_with_RL_forAll.ipynb.zip</a> 파일을 다운로드 받아 압축을 푼 후, Google Colab 혹은 (컴퓨터 자원이 충분하다면) Local PC에서 실행합니다.
 파일은 용량 문제 때문에 압축하여 업로드하였습니다.
 
